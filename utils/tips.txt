@@ -1,0 +1,8 @@
+Use at least 12 characters for your password.
+Avoid common words, phrases, and personal information like your name, birthdate, or pet's name.
+Combine uppercase and lowercase letters, numbers, and special characters for added complexity.
+Consider using a passphrase (e.g., 'PurpleTreesRunFast!2023') instead of a traditional password.
+Don't reuse passwords across different accounts.
+Use a password manager to generate and store secure passwords.
+Enable multi-factor authentication (MFA) for extra security.
+Regularly update your passwords to prevent long-term exposure.
